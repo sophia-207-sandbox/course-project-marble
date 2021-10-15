@@ -1,6 +1,23 @@
-String portfolioName
-ArrayList<Investment> investmentList
-ArrayList<Equity> equityList
 
 
-Collabotor
+Class name: Portfolio
+Parent class: none
+Children: none
+Properties to note: none
+
+Responsibilities:
+* create a new portfolio where a user can track invesment, assests and debts.
+   Methods:
+	* addInvestment(Investment i)
+  * addEquity(Equity e)
+  * removeEquity(Equity e)
+  * removeInvestment(Investment i)
+
+   Variables: 
+	* String portfolioName
+  * ArrayList<Investment> investmentList
+  * ArrayList<Equity> equityList
+
+Collaborators:
+* Investment
+* Equity
