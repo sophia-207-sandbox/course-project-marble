@@ -1,0 +1,15 @@
+Class name: Equity
+Parent class: none
+Children: Asset, Debt, Investment
+Properties to note: none
+
+Responsibilities:
+* crete an equity to add to portfolio
+   Methods:
+	* getValue()
+
+   Variables: 
+	* holdingName
+  * value
+
+Collaborators: none
