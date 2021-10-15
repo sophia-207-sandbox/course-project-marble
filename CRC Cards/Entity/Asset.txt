@@ -1,6 +1,6 @@
 Class name: Asset
-Parent class: none
-Children: Equity
+Parent class: Equity
+Children: none
 Properties to note: none
 
 Responsibilities:
