@@ -1,0 +1,16 @@
+Class name: Investment
+Parent class: Equity
+Children: none
+Properties to note: none
+
+Responsibilities:
+* create an asset object
+   Methods:
+	* inherited methods from parent class
+
+   Variables: 
+	* From parent constructor
+  * double yearlyGrowth
+  * int numShares
+
+Collaborators: none
