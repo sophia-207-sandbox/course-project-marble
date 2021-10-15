@@ -1,0 +1,6 @@
+String portfolioName
+ArrayList<Investment> investmentList
+ArrayList<Equity> equityList
+
+
+Collabotor
