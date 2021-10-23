@@ -37,8 +37,10 @@ public class Owner {
         assert md != null;
         this.password = md.digest(password.getBytes(StandardCharsets.UTF_8));
     }
-
-
+    @Override
+    public String toString(){
+        return this.username;
+    }
     public String getName() {
         return this.fullName;
     }
