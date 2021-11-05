@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Autotesting Action",
+      "name": "Default Autotesting Action",
       "setup": "",
       "run": "gradle test",
       "input": "",
